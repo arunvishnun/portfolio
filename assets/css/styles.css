@@ -1,0 +1,17 @@
+.resume-name {
+    font-size: 1.8em !important;
+}
+
+#profile-pic {
+    border-radius: 5rem !important;
+}
+
+.resume-profile-image {
+    max-width: 142px !important;
+}
+
+@media (min-width: 768px) {
+    .mr-md-5 {
+        margin-right: 1.8rem !important;
+    }
+}
